@@ -1,0 +1,11 @@
+{
+  "name": "scrape-brreg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/terchris/scrape-brreg.git",
+  "author": "Terje Christensen <terchris@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
